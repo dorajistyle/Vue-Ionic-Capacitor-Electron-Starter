@@ -1,6 +1,8 @@
 # vue-ionic-electron-starter
 It is a starter project to build a desktop application using Vue and Ionic through Electron desktop app packager. 
 
+You can also create the starter proejct using the following instruction.
+
 # Predecessors
 
 ## Install yarn
